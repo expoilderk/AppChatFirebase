@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197726966488",
+    "project_id": "fire-chat-expoilderk",
+    "storage_bucket": "fire-chat-expoilderk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197726966488:android:02db7dc61270e7de963dad",
+        "android_client_info": {
+          "package_name": "br.com.android.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197726966488-4r7b6ha53jqcli6421gmnkfvhl0hbjea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8EVV48GcI75t90aoGLuPbxDlK3voFgZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197726966488-4r7b6ha53jqcli6421gmnkfvhl0hbjea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

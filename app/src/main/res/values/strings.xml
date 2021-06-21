@@ -4,4 +4,6 @@
     <string name="signin">Ainda não tem uma conta? Crie aqui!</string>
     <string name="insert">cadastrar</string>
     <string name="photo">Foto</string>
+    <string name="contacts">contatos</string>
+    <string name="logout">Logout</string>
 </resources>
